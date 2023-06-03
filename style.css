@@ -567,7 +567,7 @@ body.active {
 }
 
 .primarytext2 {
-  display: flex;
+  display: flex block;
   flex-direction: column;
   align-items: flex-start;
   padding: 0;
@@ -577,7 +577,6 @@ body.active {
   flex: none;
   order: 0;
   flex-grow: 0;
-  display: block;
 }
 
 .multi {
@@ -798,7 +797,7 @@ body.active {
 }
 
 .primarytext3 {
-  display: flex;
+  display: flex block;
   flex-direction: column;
   align-items: flex-start;
   padding: 0;
@@ -808,7 +807,6 @@ body.active {
   flex: none;
   order: 0;
   flex-grow: 0;
-  display: block;
 }
 
 .tonic1 {
@@ -972,7 +970,6 @@ body.active {
   font-size: 13px;
   border-radius: 8px;
   background-color: #fff;
-  align-items: center;
   text-align: center;
   line-height: 24px;
   color: #396df2;
@@ -1197,19 +1194,14 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-  width: 102px;
-  height: 24px;
   font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
   border-radius: 8px;
   background-color: #fff;
-  letter-spacing: 0.03em;
-  align-items: center;
   text-align: center;
   line-height: 24px;
-  display: flex;
   color: #396df2;
   transition: transform 0.4s ease-in-out;
 }
