@@ -262,7 +262,7 @@ body.active {
 }
 
 .primarytext {
-  display: flex;
+  display: flex block;
   flex-direction: column;
   align-items: flex-start;
   padding: 0;
@@ -272,7 +272,6 @@ body.active {
   flex: none;
   order: 0;
   flex-grow: 0;
-  display: block;
 }
 
 .tonic {
@@ -506,19 +505,14 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-  width: 102px;
-  height: 24px;
   font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
   border-radius: 8px;
   background-color: #fff;
-  letter-spacing: 0.03em;
-  align-items: center;
   text-align: center;
   line-height: 24px;
-  display: flex;
   color: #396df2;
   transition: transform 0.4s ease-in-out;
 }
@@ -742,24 +736,19 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-  width: 102px;
-  height: 24px;
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
   border-radius: 8px;
   background-color: #fff;
-  letter-spacing: 0.03em;
-  align-items: center;
   text-align: center;
   line-height: 24px;
-  display: flex;
   color: #396df2;
   transition: transform 0.4s ease-in-out;
 }
 
-.go-buttontonic:hover {
+.go-buttonmulti:hover {
   transform: scale(1.1);
   background-color: rgb(57, 109, 242);
   color: rgb(223, 225, 230);
@@ -978,19 +967,14 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-  width: 102px;
-  height: 24px;
-  font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
   border-radius: 8px;
   background-color: #fff;
-  letter-spacing: 0.03em;
   align-items: center;
   text-align: center;
   line-height: 24px;
-  display: flex;
   color: #396df2;
   transition: transform 0.4s ease-in-out;
 }
