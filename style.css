@@ -208,7 +208,7 @@ body.active {
 .grid-container {
   display: grid;
   width: 375px;
-  height: 3000px;
+  height: 2600px;
   grid-template-rows: auto auto auto auto;
   justify-content:center;
   align-content: space-between;
