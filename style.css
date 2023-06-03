@@ -265,7 +265,7 @@ body.active {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding: 0px;
+  padding: 0;
   gap: 12px;
   width: 295px;
   height: 80px;
@@ -294,7 +294,7 @@ body.active {
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding: 0px;
+  padding: 0;
   gap: 12px;
   width: 236px;
   height: 32px;
@@ -506,9 +506,6 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-}
-
-.go-buttontonic {
   width: 102px;
   height: 24px;
   font-family: "Poppins";
@@ -604,7 +601,7 @@ body.active {
   margin: 0;
 }
 
-.adayl {
+.adayl2 {
   flex: none;
   order: 1;
   flex-grow: 0;
@@ -617,7 +614,7 @@ body.active {
   line-height: 24px;
 }
 
-.adayl_p {
+.adaylp {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
@@ -745,9 +742,6 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-}
-
-.go-buttonmulti {
   width: 102px;
   height: 24px;
   font-family: "Poppins", sans-serif;
@@ -984,9 +978,6 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-}
-
-.go-buttonca {
   width: 102px;
   height: 24px;
   font-family: "Poppins";
@@ -1222,9 +1213,6 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-}
-
-.go-buttonmult {
   width: 102px;
   height: 24px;
   font-family: "Poppins";
