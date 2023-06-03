@@ -1052,7 +1052,7 @@ bottom: 316px;
 .go-buttonca {
   width: 102px;
   height: 24px;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: "Poppins", 'Source Sans Pro';
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
@@ -1067,16 +1067,11 @@ bottom: 316px;
   transition: transform 0.4s ease-in-out;
 }
 
-.go-buttontonic:hover {
+.go-buttonca:hover {
   transform: scale(1.1);
   background-color: rgb(57, 109, 242);
   color: rgb(223, 225, 230);
 }
-
-
-
-
-
 
 .flex4 {
   box-sizing: border-box;
@@ -1094,18 +1089,18 @@ bottom: 316px;
   order: 0;
   flex-grow: 0;
   list-style: none;
-  }
+}
 
 .mult {
-width: 295px;
-height: 220px;
-background: url("./images/mult.png");
-border-radius: 8px;
-flex: none;
-top: 16px;
-left: 16px;
-right: 16px;
-bottom: 316px;
+  width: 295px;
+  height: 220px;
+  background: url("./images/mult.png");
+  border-radius: 8px;
+  flex: none;
+  top: 16px;
+  left: 16px;
+  right: 16px;
+  bottom: 316px;
 }
 
 .square4 {
@@ -1149,7 +1144,6 @@ bottom: 316px;
   flex-grow: 0;
   margin: 0;
 }
-
 
 .adayl4 {
   flex: none;
@@ -1205,7 +1199,7 @@ bottom: 316px;
   bottom: 100px;
   list-style: none;
   color: #6070ff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: "Poppins", 'Source Sans Pro';
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1231,10 +1225,7 @@ bottom: 316px;
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: Poppins, 'Source Sans Pro';
-  font-weight: 500;
-  font-size: 12px;
-  line-height: 16px;
+  font-family: "Poppins", 'Source Sans Pro';
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1260,10 +1251,7 @@ bottom: 316px;
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: Poppins, 'Source Sans Pro';
-  font-weight: 500;
-  font-size: 12px;
-  line-height: 16px;
+  font-family: "Poppins", 'Source Sans Pro';
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1282,7 +1270,6 @@ bottom: 316px;
   flex: none;
   order: 3;
   flex-grow: 0;
-  align-items: center;
 }
 
 .go-buttonmult {
@@ -1293,7 +1280,6 @@ bottom: 316px;
   padding: 12px;
   gap: 10px;
   box-sizing: border-box;
-  /*position: absolute;*/
   width: 126px;
   height: 48px;
   left: 0px;
@@ -1305,7 +1291,7 @@ bottom: 316px;
 .go-buttonmult {
   width: 102px;
   height: 24px;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: "Poppins", 'Source Sans Pro';
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
