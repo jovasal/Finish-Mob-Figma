@@ -542,34 +542,6 @@ bottom: 316px;
   color: rgb(223, 225, 230);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .flex2 {
   box-sizing: border-box;
   display: flex;
@@ -586,7 +558,7 @@ bottom: 316px;
   order: 0;
   flex-grow: 0;
   list-style: none;
-  }
+}
 
 .multipost {
 width: 295px;
@@ -641,7 +613,6 @@ bottom: 316px;
   flex-grow: 0;
   margin: 0;
 }
-
 
 .adayl {
   flex: none;
@@ -785,7 +756,6 @@ bottom: 316px;
   padding: 12px;
   gap: 10px;
   box-sizing: border-box;
-  /*position: absolute;*/
   width: 126px;
   height: 48px;
   left: 0px;
@@ -817,13 +787,6 @@ bottom: 316px;
   background-color: rgb(57, 109, 242);
   color: rgb(223, 225, 230);
 }
-
-
-
-
-
-
-
 
 .flex3 {
   box-sizing: border-box;
