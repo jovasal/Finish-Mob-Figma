@@ -1214,7 +1214,7 @@ body.active {
   background-color: #dad8d8;
   flex: none;
   order: 4;
-  flex-grow: 0; 
+  flex-grow: 0;
 }
 
 .head-section-co {
@@ -1421,11 +1421,10 @@ body.active {
 .JavaScript1 li,
 .HTML1 li,
 .CSS1 li {
-  /*height: 24px;*/
   left: 76px;
   right: 12px;
   top: calc(50% - 24px / 2 - 0.36px);
-  font-family: "Poppins";
+  font-family:  "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
