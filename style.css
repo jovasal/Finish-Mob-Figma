@@ -1303,7 +1303,7 @@ body.active {
   top: 216px;
 }
 
-.go-new-code {
+.go-newmes {
   box-sizing: border-box;
   align-items: center;
   padding: 12px;
@@ -1320,6 +1320,12 @@ body.active {
   line-height: 24px;
   display: flex;
   color: #396df2;
+}
+
+.go-newmes:hover {
+  transform: scale(1.1);
+  background-color: rgb(57, 109, 242);
+  color: rgb(223, 225, 230);
 }
 
 .skill {
