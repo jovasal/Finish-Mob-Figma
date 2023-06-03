@@ -418,7 +418,7 @@ body.active {
   bottom: 100px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -444,7 +444,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -470,7 +470,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -505,7 +505,7 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
@@ -582,7 +582,7 @@ body.active {
 .multi {
   width: 295px;
   height: 80px;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -600,7 +600,7 @@ body.active {
   flex-grow: 0;
   width: 295px;
   height: 76;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -608,7 +608,7 @@ body.active {
 }
 
 .adaylp {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -648,7 +648,7 @@ body.active {
   bottom: 100px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -904,7 +904,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -930,7 +930,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1026,7 +1026,7 @@ body.active {
 }
 
 .primarytext4 {
-  display: flex;
+  display: flex block;
   flex-direction: column;
   align-items: flex-start;
   padding: 0;
@@ -1038,10 +1038,10 @@ body.active {
   flex-grow: 0;
 }
 
-.multi1 {
+.multi4 {
   width: 295px;
   height: 80px;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -1053,21 +1053,21 @@ body.active {
   margin: 0;
 }
 
-.adayl4 {
+.aday4 {
   flex: none;
   order: 1;
   flex-grow: 0;
   width: 295px;
   height: 76;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
 }
 
-.adayl4_p {
-  font-family: "Poppins";
+.aday4_P {
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -1107,7 +1107,7 @@ body.active {
   bottom: 100px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1133,7 +1133,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1159,7 +1159,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1170,7 +1170,6 @@ body.active {
 .buttonmult {
   display: flex;
   flex-direction: row;
-  align-items: normal;
   justify-content: space-between;
   position: absolute;
   width: 295px;
@@ -1178,6 +1177,7 @@ body.active {
   flex: none;
   order: 3;
   flex-grow: 0;
+  align-items: center;
 }
 
 .go-buttonmult {
@@ -1194,7 +1194,7 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
