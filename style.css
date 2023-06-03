@@ -188,15 +188,12 @@ body.active {
 
 .secpa {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
+  align-content: stretch;
   box-sizing: border-box;
   align-items: center;
-  flex-direction: column;
   grid-template-columns: auto auto auto auto;
-  grid-gap: 10px;
-  padding: 16px;
-  width: 327px;
-  height: 596;
   background: #fff;
   flex: none;
   order: 3;
@@ -1214,11 +1211,10 @@ body.active {
   height: 1263px;
   left: 375px;
   top: 4769px;
-  background-color: #fff;
-  border-top-right-radius: 80px;
+  background-color: #dad8d8;
   flex: none;
   order: 4;
-  flex-grow: 0;
+  flex-grow: 0; 
 }
 
 .head-section-co {
@@ -1425,11 +1421,11 @@ body.active {
 .JavaScript1 li,
 .HTML1 li,
 .CSS1 li {
-  height: 24px;
+  /*height: 24px;*/
   left: 76px;
   right: 12px;
   top: calc(50% - 24px / 2 - 0.36px);
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
