@@ -509,7 +509,6 @@ bottom: 316px;
   padding: 12px;
   gap: 10px;
   box-sizing: border-box;
-  /*position: absolute;*/
   width: 126px;
   height: 48px;
   left: 0px;
@@ -1254,7 +1253,7 @@ bottom: 316px;
 .go-buttonmult {
   width: 102px;
   height: 24px;
-  font-family: "Poppins", 'Source Sans Pro';
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
