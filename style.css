@@ -592,7 +592,7 @@ body.active {
 .multi {
   width: 295px;
   height: 80px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -610,7 +610,7 @@ body.active {
   flex-grow: 0;
   width: 295px;
   height: 76;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -618,7 +618,7 @@ body.active {
 }
 
 .adayl_p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -658,7 +658,7 @@ body.active {
   bottom: 100px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -685,9 +685,6 @@ body.active {
   list-style: none;
   color: #6070ff;
   font-family: "Poppins", sans-serif;
-  font-weight: 500;
-  font-size: 12px;
-  line-height: 16px;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -790,7 +787,7 @@ body.active {
   order: 0;
   flex-grow: 0;
   list-style: none;
-  }
+}
 
 .toni {
   width: 295px;
@@ -845,7 +842,6 @@ body.active {
   flex-grow: 0;
   margin: 0;
 }
-
 
 .adaycal {
   flex: none;
@@ -927,7 +923,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family:  "Poppins", sans-serif;
+  font-family: "Poppins";
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -953,7 +949,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family:  "Poppins", sans-serif;
+  font-family: "Poppins";
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -993,7 +989,7 @@ body.active {
 .go-buttonca {
   width: 102px;
   height: 24px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
@@ -1061,7 +1057,7 @@ body.active {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding: 0px;
+  padding: 0;
   gap: 12px;
   width: 295px;
   height: 80px;
@@ -1073,7 +1069,7 @@ body.active {
 .multi1 {
   width: 295px;
   height: 80px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -1091,7 +1087,7 @@ body.active {
   flex-grow: 0;
   width: 295px;
   height: 76;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -1099,7 +1095,7 @@ body.active {
 }
 
 .adayl4_p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -1111,7 +1107,7 @@ body.active {
   flex-direction: row;
   align-items: center;
   justify-content: stretch;
-  padding: 0px;
+  padding: 0;
   width: 214px;
   height: 24px;
   top: 428px;
@@ -1139,7 +1135,7 @@ body.active {
   bottom: 100px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1165,7 +1161,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1191,7 +1187,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1222,7 +1218,7 @@ body.active {
   box-sizing: border-box;
   width: 126px;
   height: 48px;
-  left: 0px;
+  left: 0;
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
@@ -1231,7 +1227,7 @@ body.active {
 .go-buttonmult {
   width: 102px;
   height: 24px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
