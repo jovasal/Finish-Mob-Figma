@@ -1214,21 +1214,14 @@ body.active {
 
 .contact-me {
   display: flex;
-  /*justify-content: start;*/
-  /*box-sizing: border-box;*/
-  /*align-items: center;*/
-  /*flex-direction: column;*/
-  /*grid-template-columns: auto auto auto auto;*/
- /* position: absolute;*/
+  justify-content: start;
+  box-sizing: border-box;
   width: 375px;
   height: 1263px;
   left: 375px;
   top: 4769px;
   background-color: #fff;
-  /*margin: 0 auto;*/
   border-top-right-radius: 80px;
-  /*margin-top: 430px;*/
-  /*background: #fff;*/
   flex: none;
   order: 4;
   flex-grow: 0;
